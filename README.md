@@ -16,9 +16,7 @@ I'm Adil from Bangladesh, and I do content on Design and Development. I really e
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itssadil)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=itssadil&show_icons=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itssadil)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=itssadil&show_icons=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=itssadil)  
 

@@ -24,4 +24,3 @@ I'm Adil from Bangladesh, and I do content on Design and Development. I really e
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=itssadil)  
 
 ![Profile views](https://gpvc.arturio.dev/itssadil)  
-![Profile views](https://facebook.com/itss.adil)  

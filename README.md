@@ -16,6 +16,17 @@ Hello there! I'm a dedicated Flutter developer with a strong passion for craftin
 #### 🅿 PHP
 #### 💻 HTML, CSS, JS, jQuery, Bootstrap
 
+## Tools & Tech
+<p align="center">
+  <img src="https://github.com/itssadil/itssadil/blob/main/flutter.png" width="50"  hspace="20" >
+  <img src="https://github.com/itssadil/itssadil/blob/main/dart.png" width="50"  hspace="20" >
+  <img src="https://github.com/itssadil/itssadil/blob/main/android%20studio.png" width="50"  hspace="20" >
+  <img src="https://github.com/itssadil/itssadil/blob/main/firebase.png" width="50"  hspace="20" >
+  <img src="https://github.com/itssadil/itssadil/blob/main/sqlite.png" width="50"  hspace="20" >
+  <img src="https://github.com/itssadil/itssadil/blob/main/git.png" width="50"  hspace="20" >
+  <img src="https://github.com/itssadil/itssadil/blob/main/github.png" width="50"  hspace="20" >
+ </p>
+
 ## Examples of Work
 <img src="https://github.com/adriantwarog/adriantwarog/blob/master/covid19.gif" width="512" >
 
@@ -25,7 +36,6 @@ Hello there! I'm a dedicated Flutter developer with a strong passion for craftin
 
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=itssadil)   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=itssadil&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=itssadil)  
+ 
 
 

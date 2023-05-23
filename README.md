@@ -1,12 +1,20 @@
 ![Software Developer](https://github.com/itssadil/itssadil/blob/main/Adil%20Hussain%20Tapadar.png)
 
 # Adil Hussain
-I'm Adil from Bangladesh, and I do content on Design and Development. I really enjoy learning languages and frameworks like Dart & Flutter. I also enjoy wireframing, ui, ux, and design in general. 
+Hello there! I'm a dedicated Flutter developer with a strong passion for crafting beautiful and performant cross-platform applications. My GitHub repository is a collection of Flutter projects that demonstrate my expertise in building intuitive user interfaces, integrating APIs, managing state, and more. Join me in exploring the world of Flutter and let's create amazing apps together! 
 
 ## Skills and Experience
-* 📱 Flutter, Dart
-* 🅿 PHP
-* 💻 HTML, CSS, JS, jQuery, Bootstrap
+#### 📱 Flutter & Dart
+* Widgets
+* Gestures
+* Navigation & Routing
+* State management (Provider)
+* Packages
+* Google Maps
+* REST API
+* DATABASE (SQLite, Firebase)
+#### 🅿 PHP
+#### 💻 HTML, CSS, JS, jQuery, Bootstrap
 
 ## Examples of Work
 <img src="https://github.com/adriantwarog/adriantwarog/blob/master/covid19.gif" width="512" >
